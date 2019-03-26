@@ -60,5 +60,5 @@ For instance input [94133,94133] [94200,94299] [94600,94699] as whole under a st
 
   ![alt text](https://github.com/atulmithe/ZipcodeProcessor-master/ZipcodeProcessor-master/output_screenshot.PNG)
   
-  
+ 
   
