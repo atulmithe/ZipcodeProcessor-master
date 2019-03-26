@@ -58,7 +58,7 @@ For instance input [94133,94133] [94200,94299] [94600,94699] as whole under a st
 
 # Sample outputs:
 
-  ![alt text](https://github.com/KarthickMahalingam/ZipcodeProcessor/blob/master/Screenshot%20from%202018-02-25%2012-38-26.png)
+  ![alt text](https://github.com/KarthickMahalingam/ZipcodeProcessor/output_screenshot.PNG)
   
   
   
